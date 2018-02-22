@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>master_full_ckeditor</id>
+    <version>2.0</version>
+    <priority>100</priority>
+    <position>0</position>
+    <status>active</status>
+  <has_icon>N</has_icon>
+     <default_language>ru</default_language>
+	<authors>
+		<author>
+			<name>Master</name>
+			<email>design@web-designer.lt</email>
+			<url>https://web-designer.lt</url>
+                        <skype>live:webdesign_194</skype>
+		</author>
+	</authors>
+	<supplier>Master</supplier>
+	<supplier_link>https://web-designer.lt</supplier_link>
+</addon>

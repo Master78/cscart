@@ -1,0 +1,1 @@
+{script src="/js/addons/master_full_ckeditor/26d91f0c35.js"}
